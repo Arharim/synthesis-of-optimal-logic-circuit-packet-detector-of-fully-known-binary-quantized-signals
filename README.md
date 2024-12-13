@@ -1,0 +1,1 @@
+# synthesis-of-optimal-logic-circuit-packet-detector-of-fully-known-binary-quantized-signals
